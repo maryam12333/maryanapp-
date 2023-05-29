@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplicationG3</string>
+    <string name="enter">Enter</string>
+    <string name="todo">TODO</string>
+    <string name="number">number</string>
+    <string name="bank_account_number">Bank account number</string>
+    <string name="thank_you_for_shopping">Thank you for shopping:)</string>
+    <string name="home">Home</string>
+</resources>
